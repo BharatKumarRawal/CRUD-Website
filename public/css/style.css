@@ -1,0 +1,11 @@
+nav .nav-item .nav-link {
+  color: #fff;
+}
+
+nav .nav-item #active {
+  color: chocolate;
+}
+
+nav .navbar-brand{
+  color: chocolate;
+}
